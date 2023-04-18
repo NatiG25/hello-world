@@ -19,9 +19,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [freeCodeCamp form] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-**freeCodeCamp form** is a basic freeCodeCamp form, where it asks the user (student) to describe their experience learning at FreeCodeCamp.
+<!-- **Hello Microverse** -->
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -34,11 +34,18 @@
   </ul>
 </details>
 
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">CSS</a></li>
+  </ul>
+</details>
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **A basic form**
+- **A basic project setup**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
